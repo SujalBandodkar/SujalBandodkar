@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="banner.jpg" alt="Banner" width="100%" />
+  <img src="Banner.jpg" alt="Banner" width="60%" />
 </p>
 
-<br>
 <h1 align="center">Hey there, I'm Sujal Bandodkar 👋</h1>
 
 <h3 align="center">
