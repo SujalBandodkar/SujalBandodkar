@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.jpg" alt="Banner" width="50%" />
+  <img src="Banner.jpg" alt="Background_banner" width="50%" />
 </p>
 
 <h1 align="center">Hey there, I'm Sujal Bandodkar 👋</h1>
