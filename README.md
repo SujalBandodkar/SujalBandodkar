@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujal Bandodkar</h1>
+<h1 align="center">Hey there, I'm Sujal Bandodkar 👋</h1>
 
 <h3 align="center">
 Software Engineer • Backend Developer • AI & Machine Learning Enthusiast
@@ -99,38 +99,6 @@ An AI-powered disaster prediction and satellite data visualization platform.
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SujalBandodkar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalBandodkar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SujalBandodkar&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SujalBandodkar&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
@@ -139,12 +107,4 @@ An AI-powered disaster prediction and satellite data visualization platform.
 
 </p>
 
----
 
-<div align="center">
-
-### 💡 *"First, solve the problem. Then, write the code."*
-
-**— John Johnson**
-
-</div>
